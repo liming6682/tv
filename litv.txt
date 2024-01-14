@@ -1,0 +1,14 @@
+{
+
+
+"sites":[
+       {
+      "key": "南瓜",
+      "name": "黎黎┃App",
+      "type": 3,
+      "api": "csp_NanGua"
+      
+    }
+     ],
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/liming6682/tv/main/zyt.txt"}]
+}
