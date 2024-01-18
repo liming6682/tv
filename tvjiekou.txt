@@ -10,5 +10,5 @@
       
     }
      ],
-"lives":[{"name":"live","type":0,"url":"https://gitee.com/liming668/iptv/blob/liming/zyt.txt"}]
+"lives":[{"name":"live","type":0,"url":"https://gitee.com/liming668/iptv/blob/liming/tvyuan.txt"}]
 }
