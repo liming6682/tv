@@ -10,5 +10,5 @@
       
     }
      ],
-"lives":[{"name":"live","type":0,"url":"https://jihulab.com/liming1/tvbox/-/raw/main/tvyuan.txt"}]
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/liming6682/tv/main/tvyuan.txt"}]
 }
