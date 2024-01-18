@@ -1,12 +1,12 @@
 {
 
 
-"sites":[
+“站点”：[
        {
-      "key": "南瓜",
+      “关键”：“南瓜”，
       "name": "黎黎┃App",
-      "type": 3,
-      "api": "csp_NanGua"
+      “类型”：3，
+      “api”：“csp_NanGua”
       
     }
      ],
