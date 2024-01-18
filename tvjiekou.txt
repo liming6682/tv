@@ -1,0 +1,14 @@
+{
+
+
+"sites":[
+       {
+      "key": "tqt",
+      "name": "黎黎┃App",
+      "type": 3,
+      "api": "tqt"
+      
+    }
+     ],
+"lives":[{"name":"live","type":0,"url":"https://jihulab.com/liming1/tvbox/-/raw/main/tvyuan.txt"}]
+}
