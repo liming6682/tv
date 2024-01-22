@@ -4,7 +4,7 @@
 "sites":[
        {
       "key": "tqt",
-      "name": "黎黎┃App",
+      "name": "黎黎┃github",
       "type": 3,
       "api": "tqt"
       
