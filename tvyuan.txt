@@ -52,10 +52,10 @@ nfo=~~V2.0~aBDo2SueDEzfJsIaId7m_A397ca21a961ecccd41285db9baffda01~G8nR_x4atlC46z
 nti
 nfo=~~V
 2.0~aBDo2SueDEzfJsIaId7m_A397ca21a961ecccd41285db9baffda01~G8nR_x4atlC46zNQAnkhzfhSAe
-21,http://120.199.76.138:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42329921.smil/1000.m3u8?tenantId=8601&IASHttpSessionId=RR538720240110043404297682&rrsip=hwltc.tv.cdn.zj.chinamobile.com&profileid=main&timeformat=local&channel=3221228351&fmt=ts2hls&USERID=74330008847991&accou
+江苏卫视,http://120.199.76.138:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42329921.smil/1000.m3u8?tenantId=8601&IASHttpSessionId=RR538720240110043404297682&rrsip=hwltc.tv.cdn.zj.chinamobile.com&profileid=main&timeformat=local&channel=3221228351&fmt=ts2hls&USERID=74330008847991&accou
 nti
 nfo=~~V2.0~aBDo2SueDEzfJsIaId7m_A397ca21a961ecccd41285db9baffda01~G8nR_x4atlC46zNQAnkhzfhSAe
-22,http://120.199.76.138:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/42329925.smil/1000.m3u8?tenantId=8601&IASHttpSessionId=RR538720240110043404297682&rrsip=hwltc.tv.cdn.zj.chinamobile.com&profileid=main&timeformat=local&channel=3221228351&fmt=ts2hls&USERID=74330008847991&accou
+北京卫视,http://120.199.76.138:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/42329925.smil/1000.m3u8?tenantId=8601&IASHttpSessionId=RR538720240110043404297682&rrsip=hwltc.tv.cdn.zj.chinamobile.com&profileid=main&timeformat=local&channel=3221228351&fmt=ts2hls&USERID=74330008847991&accou
 nti
 nfo=~~V2.0~aBDo2SueDEzfJsIaId7m_A397ca21a961ecccd41285db9baffda01~G8nR_x4atlC46zNQAnkhzfhSAe
 23,http://120.199.76.138:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/42329941.smil/1000.m3u8?tenantId=8601&IASHttpSessionId=RR538720240110043404297682&rrsip=hwltc.tv.cdn.zj.chinamobile.com&profileid=main&timeformat=local&channel=3221228351&fmt=ts2hls&USERID=74330008847991&accou
